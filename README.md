@@ -30,4 +30,8 @@ Develop internal tools/methodology to better serve our clients and the industry 
 Research new projects/code bases to stay cutting edge in the web3 security industry. 
 
 
-To apply, send resume to hiring@cyfrin.io 
+To apply, send resume to hiring@cyfrin.io. Please include:
+
+1. Resume 
+2. Public security writings 
+2. Code4rena or Sherlock DeFi rank (if applicable) 
