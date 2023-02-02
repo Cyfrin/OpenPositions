@@ -16,7 +16,7 @@ Cyfrin provides a number of services to our clients, such as; consulting, code r
 ## Job Overview
 
 Location: Remote
-Pay : $200-300K USD, commensurate with relevant experience
+Pay : $210-300K USD, commensurate with relevant experience
 Title: Senior Solidity Security Auditor
 Terms : Full time, 40 hours a week 
 
