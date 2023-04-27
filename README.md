@@ -4,3 +4,4 @@ This repo is dedicated to all the open roles across the Chain Accel / Cyfrin org
 
 1. [Developer Advocate](./positions/marketer_or_developer_advocate.md)
 2. [Developer Marketer](./positions/developer_marketer.md)
+3. [IT Security Specialist](./positions/it_security_specialist.md)
