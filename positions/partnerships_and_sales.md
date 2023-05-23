@@ -37,7 +37,7 @@ The Account Manager / Business Development / Sales / Partnerships Manager will l
 ## Job Overview:
 
 Location: Remote
-Pay : $70-200K USD, commensurate with relevant experience
+Pay : $90-200K USD, commensurate with relevant experience
 Terms : Full time, 40 hours a week 
 
 ## How to apply
