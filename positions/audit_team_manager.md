@@ -1,6 +1,6 @@
 # Cyfrin Audit Team Manager
 
-At Cyfrin, we are seeking an Audit Team Manager to take charge of a high-performing remote engineering and security team. The perfect candidate for this role will be a dynamic leader who values collaboration, champions personal and team growth, and is innately curious. The role is perfect for someone who is excited about making meaningful contributions to the web3 space, enabling it to scale, and above all, building cool, cutting-edge technology.
+At Cyfrin, we are seeking an Audit Team Manager to take charge of a high-performing remote engineering and security team. The perfect candidate for this role will be a dynamic leader who values collaboration, champions personal and team growth, and is innately curious. The role is perfect for someone who is excited about making meaningful contributions to the web3 space, and enabling it to scale by improving security across the industry.
 
 ## Key Responsibilities
 
