@@ -15,6 +15,7 @@ At Cyfrin, we are seeking an Audit Team Manager to take charge of a high-perform
 ## Qualifications
 
 - 3+ years managing a remote engineering or security team.
+- 3+ years experience in a consulting/services environment, managing multiple projects and deadlines.
 - Proven responsibility for outcomes and results.
 - Strong communication and high emotional intelligence.
 - Ability to resolve technical issues.
