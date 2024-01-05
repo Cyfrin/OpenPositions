@@ -2,7 +2,7 @@
 
 ## Company Overview:
 
-Our is to build the web3 we promised, secure, scalable, and usable. Cyfrin is a world-class web3 security and education company, protecting and helping hundreds of protocols and blockchain companies worldwide, and tens of thousands of developers.
+Our mission is to build the web3 we promised, secure, scalable, and usable. Cyfrin is a world-class web3 security and education company, protecting and helping hundreds of protocols and blockchain companies worldwide, and tens of thousands of developers.
 
 Home to some of the best smart contract security researchers in the market and one of the strongest Developer Relations teams in the industry - professionals in Cyfrin come from backgrounds like Chainlink, Compound, Alchemy, Aragon, WorldCoin, Microsoft, Google, and other popular FinTech companies.
 
