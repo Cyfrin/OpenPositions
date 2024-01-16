@@ -8,9 +8,11 @@ Home to some of the best smart contract security researchers in the market and o
 
 ## The Role
 
-As the first full-time content marketer at Cyfrin, you'll be responsible for designing content marketing strategies to help establish Cyfrin as the leading smart contracts security and education powerhouse. Ultimately, this content will be used to push awareness of Cyfrin and communicate the value propositions of our products and services. You'll work cross-functionally with our world-class product, engineering, design, and sales teams to drive the launch and adoption of products that serve tens of thousands of users and products globally.
+As the first full-time content marketer at Cyfrin, you'll be responsible for designing content marketing strategies, overseeing them from ideation to execution, adjusting our content, and amplification strategies to meet business expectations and help establish Cyfrin as the leading smart contracts security and education powerhouse. You'll support sales, generating high-quality leads to support building the pipelines to meet business plans, quotas and company objectives. 
 
-The ideal candidate brings experience in creating content for high-growth start-ups and is interested in crypto, blockchain, and decentralized technologies. 
+You'll work cross-functionally with our world-class product, engineering, design, and sales teams to drive the launch and adoption of products that serve tens of thousands of users and products globally.
+
+The ideal candidate brings experience creating and/or leading content and marketing campaigns for high-growth start-ups. Is interested in crypto, blockchain, and decentralized technologies. 
 
 Additionally, this person shows a combination of strategic thinking, attention to detail, and project management skills.
 
@@ -18,8 +20,15 @@ Additionally, this person shows a combination of strategic thinking, attention t
 
 - Design and spearhead content marketing strategies
 - Write and oversee the creation of long-form educational content and Twitter threads
-- QC and advise XFN teams to create blog announcements and technical docs optimized for SEO
-- Collaborate with design and product teams to produce high quality visual content
+- Provide sales and marketing support in building a pipeline of leads to meet business plans, quotas and company objectives.
+- Develop strategies and tactics to get the word out about Cyfrin and drive qualified traffic
+- Deploy successful marketing campaigns and own their implementation from ideation to execution
+- Experiment with a variety of organic and paid acquisition channels like content creation, content curation, pay-per-click campaigns, event management, publicity, social media, lead generation campaigns, copywriting, performance analysis
+- Produce valuable and engaging content for our website and blog that attracts and converts our target groups
+- Build strategic relationships and partner with key industry players, agencies and vendors
+- Measure and report on the performance of marketing campaigns, gain insight and assess against goals
+- Analyze consumer behavior and adjust email and advertising campaigns accordingly.
+- Collaborate with design and product teams to produce high-quality visual content
 - Write press releases on partnership announcements, customer spotlights, and product releases
 - Interview partners and customers to produce engaging case-study content
 - Work with Cyfrin engineers and auditors to produce high-intent, technical content on web3 topics
@@ -29,7 +38,7 @@ Additionally, this person shows a combination of strategic thinking, attention t
 
 ## What We're Looking For:
 
-- 2-5 years of proven work experience as a Content Manager or Content Marketing Manager
+- 2-5 years of proven work experience creating high-performing campaigns, marketing stunts, and content for tech startups.
 - High attention to detail, specifically for technical products and technical audiences
 - Ability to understand, write, and communicate highly technical topics for all education levels
 - Excellent writing and communication skills (English), internally and externally
