@@ -38,9 +38,12 @@ Cyfrin will not engage/work with anonymous individuals, or those who fail a back
 -   A collaborative spirit, eager to work cross-functionally with diverse teams.
 -   An insatiable curiosity and a continuous learning mindset, especially regarding new security technologies and practices.
 -   A passion for the potential of blockchain technology to create a more secure, decentralized future.
+  
 Cyfrin is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
 If you are excited to take on this pivotal role in shaping the future of blockchain security, we would love to hear from you. Join us as a Lead Security Auditor and help us build a safer web3 world.
+
 **To Apply:** Please send your resume and a cover letter explaining your interest in blockchain security and any relevant experiences to hiring@cyfrin.io.
-Resume
-Public security writings
-CodeHawks/Code4rena/Sherlock ranks and highlights (if applicable)
+
+- Resume
+- Public security writings
+- CodeHawks/Code4rena/Sherlock ranks and highlights (if applicable)
