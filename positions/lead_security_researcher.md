@@ -1,4 +1,5 @@
 **Lead Security Engineer**
+
 Cyfrin is at the forefront of revolutionizing the web3 and blockchain industry. We are currently seeking a Lead Security Auditor who is passionate about enhancing the security landscape of decentralized applications and protocols. As a key player in our dynamic team, you will lead efforts to identify and mitigate security risks, ensuring the integrity and resilience of our innovative products.
 
 **Job Overview:**
