@@ -5,7 +5,7 @@ Cyfrin is at the forefront of revolutionizing the web3 and blockchain industry. 
 **Job Overview:**
 
 Location: Remote
-Pay : $100-150K USD / yr
+Pay : $100-150K USD / yr + equity
 Terms : Full time, 40 hours a week
 
 **Key Responsibilities:**
