@@ -7,7 +7,9 @@ Cyfrin is at the forefront of revolutionizing the web3 and blockchain industry. 
 Location: Remote
 Pay : $100-150K USD / yr
 Terms : Full time, 40 hours a week
+
 **Key Responsibilities:**
+
 -   Conduct comprehensive security audits of smart contracts, blockchain protocols, and decentralized applications (DApps).
 -   Lead a team of security professionals, fostering a culture of continuous learning and improvement.
 -   Develop and implement security policies and procedures in line with industry best practices.
@@ -15,17 +17,23 @@ Terms : Full time, 40 hours a week
 -   Stay abreast of the latest security threats and trends in the blockchain space.
 -   Communicate audit findings and recommendations to technical and non-technical stakeholders.
 -   Organize and provide security training and awareness programs.
+  
 **Qualifications:**
+
 -   Strong understanding of blockchain technology, smart contracts, and cryptocurrency principles.
 -   Knowledge of DeFi, NFTs, and other emerging web3 applications.
 -   Experience with programming languages used in blockchain development, such as Solidity, Rust, or Go.
 -   Excellent analytical, problem-solving, and decision-making skills.
 -   Strong communication skills, capable of leading teams and presenting findings effectively.
+  
 **Preferred Qualifications:**
+
 -   Have worked at an established auditing firm or demonstrated skill on competitive auditing platforms such as CodeHawks, Code4rena,  Sherlock, Hats Finanace.
 -   Demonstrated ability to innovate and think creatively about security challenges.
 Cyfrin will not engage/work with anonymous individuals, or those who fail a background check.
+
 **Desired Attributes:**
+
 -   A strong sense of ownership and responsibility for the security and integrity of complex systems.
 -   A collaborative spirit, eager to work cross-functionally with diverse teams.
 -   An insatiable curiosity and a continuous learning mindset, especially regarding new security technologies and practices.
