@@ -53,7 +53,7 @@ Additionally, this person shows a combination of strategic thinking, attention t
 ## Job Overview:
 
 Location: Remote
-Pay : $70-150K USD, commensurate with relevant experience
+Pay : $40-150K USD, commensurate with relevant experience
 Terms : Full time, 40 hours a week 
 
 ## How to apply
