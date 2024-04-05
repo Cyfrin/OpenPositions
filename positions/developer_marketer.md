@@ -2,64 +2,60 @@
 
 ## Company Overview:
 
-Our mission is to build the web3 we promised, secure, scalable, and usable. Cyfrin is a world-class web3 security and education company, protecting and helping hundreds of protocols and blockchain companies worldwide, and tens of thousands of developers.
+Cyfrin aims to empower blockchain protocols, organizations, and financial entities to develop more secure, scalable, and sustainable products. Cyfrin is a comprehensive ecosystem of products enhancing the security framework of major global protocols. Our offerings span from private and competitive audits and security tools to the industry-leading smart contract development and security education platform. We're committed to creating seamless security solutions and supporting the growth of hundreds of protocols, developers, and blockchain companies worldwide.
 
-Home to some of the best smart contract security researchers in the market and one of the strongest Developer Relations teams in the industry - professionals in Cyfrin come from backgrounds like Chainlink, Compound, Alchemy, Aragon, WorldCoin, Microsoft, Google, and other popular FinTech companies.
+Our team includes top-tier smart contract security researchers and a formidable Developer Relations unit. Cyfrin professionals come from stellar backgrounds, including Chainlink, Alchemy, Aragon, WorldCoin, Microsoft, Google, and leading FinTech companies, contributing to a rich culture of innovation and expertise.
 
 ## The Role
 
-As the first full-time content marketer at Cyfrin, you'll be responsible for designing content marketing strategies, overseeing them from ideation to execution, adjusting our content, and amplification strategies to meet business expectations and help establish Cyfrin as the leading smart contracts security and education powerhouse. You'll support sales, generating high-quality leads to support building the pipelines to meet business plans, quotas and company objectives. 
+Joining the Cyfrin marketing team, you will drive the development and implementation of marketing strategies, guiding them from concept to execution. Your role involves refining our content and outreach strategies to align with business goals and positioning Cyfrin as the premier smart contracts security and education authority. You will be pivotal in establishing lasting co-marketing partnerships while generating and nurturing leads to fulfill business objectives and quotas.
 
-You'll work cross-functionally with our world-class product, engineering, design, and sales teams to drive the launch and adoption of products that serve tens of thousands of users and products globally.
+Collaboration is key; you will work closely with our exceptional product, engineering, design, and sales teams to promote the adoption of our products, impacting tens of thousands of users and products globally.
 
-The ideal candidate brings experience creating and/or leading content and marketing campaigns for high-growth start-ups. Is interested in crypto, blockchain, and decentralized technologies. 
-
-Additionally, this person shows a combination of strategic thinking, attention to detail, and project management skills.
+We seek a candidate with a proven track record in content creation and marketing campaign leadership, particularly within high-growth startups. An ideal candidate has a deep interest in crypto, blockchain, and decentralized technologies, expertise in SEO, and the ability to optimize content and campaigns for search algorithms. 
 
 ## Responsibilities:
 
-- Design and spearhead content marketing strategies
-- Write and oversee the creation of long-form educational content and Twitter threads
-- Provide sales and marketing support in building a pipeline of leads to meet business plans, quotas and company objectives.
-- Develop strategies and tactics to get the word out about Cyfrin and drive qualified traffic
-- Deploy successful marketing campaigns and own their implementation from ideation to execution
-- Experiment with a variety of organic and paid acquisition channels like content creation, content curation, pay-per-click campaigns, event management, publicity, social media, lead generation campaigns, copywriting, performance analysis
-- Produce valuable and engaging content for our website and blog that attracts and converts our target groups
-- Build strategic relationships and partner with key industry players, agencies and vendors
-- Measure and report on the performance of marketing campaigns, gain insight and assess against goals
-- Analyze consumer behavior and adjust email and advertising campaigns accordingly.
-- Collaborate with design and product teams to produce high-quality visual content
-- Write press releases on partnership announcements, customer spotlights, and product releases
-- Interview partners and customers to produce engaging case-study content
-- Work with Cyfrin engineers and auditors to produce high-intent, technical content on web3 topics
-- Help publish content across Cyfrin’s owned social media channels, blog, and newsletters
-- Lead co-marketing content initiatives with customers and chain partners
-- Manage and organize Cyfrin’s content launch calendar
+- Lead and execute content marketing strategies.
+- Craft and supervise the production of educational and informational content.
+- Support sales and marketing efforts to build a robust lead pipeline.
+- Utilize various marketing channels to enhance Cyfrin’s visibility and drive traffic.
+- Manage marketing campaigns from start to finish.
+- Create engaging content for our website and blog to attract and convert our target audience.
+- Foster strategic partnerships with industry leaders, agencies, and vendors.
+- Analyze marketing campaign performance and consumer behavior, adjusting strategies as needed.
+- Collaborate with design and product teams to create visually compelling content.
+- Conduct interviews and produce case studies highlighting our partnerships and customer success stories.
+- Collaborate with Cyfrin’s developer relations team to amplify in-depth content on web3 topics.
+- Distribute content across Cyfrin’s social media, blog, and newsletters.
+- Initiate co-marketing content projects with partners.
+- Organize and manage the content launch calendar.
 
 ## What We're Looking For:
 
-- 2-5 years of proven work experience creating high-performing campaigns, marketing stunts, and content for tech startups.
-- High attention to detail, specifically for technical products and technical audiences
-- Ability to understand, write, and communicate highly technical topics for all education levels
-- Excellent writing and communication skills (English), internally and externally
-- [Preferred] Experience in the crypto/blockchain space
-- [Preferred] Experience with Search Engine Optimization (SEO)
-- [Preferred] Technical background (i.e. technical marketing, technical writing, etc.)
-- [Preferred] Experience writing content at another blockchain or web3 company
-- [Preferred] Founded a company or built side projects
-- [Preferred] Experience in high-growth, early-stage startups
-- [Preferred] Coding background (Solidity, Rust, or similars)
-  
+- 2-5 years of experience in high-impact marketing and content creation for tech startups.
+- A keen eye for detail, especially concerning technical products and audiences.
+- Proficiency in discussing and writing about technical topics for diverse audiences.
+- Outstanding writing and communication skills in English.
+- A creative mind
+- [Preferred] Background in the crypto/blockchain field.
+- [Preferred] SEO expertise.
+- [Preferred] Technical marketing or writing experience.
+- [Preferred] Experience in blockchain or web3 content creation.
+- [Preferred] Entrepreneurial experience or side projects.
+- [Preferred] Background in fast-paced, early-stage startups.
+- [Preferred] Programming knowledge (Solidity, Rust, etc.).
+
 ## Job Overview:
 
-Location: Remote
-Pay : $40-150K USD, commensurate with relevant experience
-Terms : Full time, 40 hours a week 
+- **Location:** Remote
+- **Salary:** $40-150K USD, based on experience
+- **Terms:** Full-time, 40 hours per week
 
-## How to apply
+## How to Apply
 
-To apply, send resume to hiring@cyfrin.io. Please include:
+Email your application to mark@cyfrin.io, including:
 
-1. Resume 
-2. Public marketing/developer advocacy/any applicable work
-3. YouTube/Twitter/Social Media
+1. Your resume.
+2. Links to public marketing, developer advocacy, or relevant work.
+3. Links to your LinkedIn, Twitter, or other social media profiles.
