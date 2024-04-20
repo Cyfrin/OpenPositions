@@ -22,4 +22,5 @@ We are seeking an experienced Information Security Specialist to join our team. 
 - Knowledge of information security best practices, standards, and frameworks, such as ISO 27001, NIST, and CIS.
 - Relevant certifications, such as CISSP, CISM, or CompTIA Security+, are preferred.
 
+To apply, send an email with your CV to hiring@cyfrin.io
 
