@@ -20,6 +20,7 @@ Terms : Full time, 40 hours a week
   
 **Qualifications:**
 
+-   Candidates have proven their skills by performing well on the [CodeHawks](https://www.codehawks.com/) leaderboard.
 -   Strong understanding of blockchain technology, smart contracts, and cryptocurrency principles.
 -   Knowledge of DeFi, NFTs, and other emerging web3 applications.
 -   Experience with programming languages used in blockchain development, such as Solidity, Rust, or Go.
