@@ -47,4 +47,4 @@ If you are excited to take on this pivotal role in shaping the future of blockch
 
 - Resume
 - Public security writings
-- CodeHawks/Code4rena/Sherlock ranks and highlights (if applicable)
+- CodeHawks/Code4rena ranks and highlights (if applicable)
