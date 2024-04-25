@@ -1,4 +1,4 @@
-This repo is dedicated to all the open roles across the Chain Accel / Cyfrin org.
+This repo is dedicated to all the open roles across the Cyfrin org.
 
 # Open Roles at [Cyfrin](https://cyfrin.io)
 
