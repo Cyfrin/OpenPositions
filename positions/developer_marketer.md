@@ -54,7 +54,7 @@ We seek a candidate with a proven track record in content creation and marketing
 
 ## How to Apply
 
-Email your application to mark@cyfrin.io, including:
+Email your application to hiring@cyfrin.io, including:
 
 1. Your resume.
 2. Links to public marketing, developer advocacy, or relevant work.
