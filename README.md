@@ -2,8 +2,6 @@ This repo is dedicated to all the open roles across the Cyfrin org.
 
 # Open Roles at [Cyfrin](https://cyfrin.io)
 
--   [Lead UI/UX Designer](./positions/ui-ux-job-description.md)
--   [Developer Marketer](./positions/developer_marketer.md)
--   [IT Security Specialist](./positions/it_security_specialist.md)
+-   [Full Stack Web3 Curriculum Developer](./open-positions/full_stack_web3_curriculum_developer.md)
 
 The position is not currently open if you don't see a role on this page.
