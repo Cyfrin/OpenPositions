@@ -39,8 +39,8 @@ We aren't just teaching the entry level students though, through your research, 
 - Strong knowledge of JavaScript/TypeScript and at least one modern front-end framework (React, Svelte)
 - Strong command of the english language
 - Video/on-camera experience doing educational content
-Excellent written and verbal communication skills
-Ability to explain complex technical concepts in an easy-to-understand manner
+- Excellent written and verbal communication skills
+- Ability to explain complex technical concepts in an easy-to-understand manner
 
 ## Preferred Qualifications
 
