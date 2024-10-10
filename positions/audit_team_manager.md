@@ -32,10 +32,17 @@ At Cyfrin, we are seeking an Audit Team Manager to take charge of a high-perform
 - Passion for team member growth.
 - Interest in the cryptocurrency and web3 industry.
 - Proficiency in roadmap planning.
-- Motivated to contribute to the web3 space.
+- Motivated to contribute to the web3 space
 
 Cyfrin is an Equal Opportunity Employer committed to diversity and inclusivity.
 
-If you're passionate about blockchain and web3 technologies and are ready to lead a dynamic team in a fast-paced, innovative company, we encourage you to apply today. Join us as Audit Team Manager at Cyfrin, and let's build cool shit together!
+If you're passionate about blockchain and web3 technologies and are ready to lead a dynamic team in a fast-paced, innovative company, we encourage you to apply today. Join us as Audit Team Manager at Cyfrin, and let's build the web3 we promised!
 
-To apply, send resume to hiring@cyfrin.io.
+## What we offer
+- 100% remote
+- $130,000 - $225,000 USD
+- Stock options
+- Gym reimbursement
+- Health benefits (USA only)
+
+To apply, send resume to hiring@cyfrin.io, with the title `AUDIT MANAGER` in the subject line. And then, and please highlight your engineering management experience. 
