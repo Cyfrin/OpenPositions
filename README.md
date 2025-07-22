@@ -4,5 +4,5 @@ If the role is not in this `README.md`, consider the role currently closed.
 
 # Open Roles at [Cyfrin](https://cyfrin.io)
 
-- None at the moment
+- [Junior Marketer](./positions/junior_marketer.md)
 
