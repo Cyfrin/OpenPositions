@@ -1,4 +1,4 @@
-# Senior Marketer / Marketing Lead
+# Senior Marketer
 
 ## Company Overview:
 
