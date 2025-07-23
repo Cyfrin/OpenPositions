@@ -33,7 +33,7 @@ This is a mid/senior-level role where you'll have significant autonomy and impac
 ## Job Overview:
 
 Location: Remote
-Pay: $75,000 - $130,000 USD, commensurate with relevant experience
+Pay: $75,000 - $100,000 USD, commensurate with relevant experience
 Terms: Full time, 40 hours a week
 
 ## How to apply
