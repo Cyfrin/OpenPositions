@@ -6,3 +6,5 @@ If the role is not in this `README.md`, consider the role currently closed.
 
 - [Junior Marketer](./positions/junior_marketer.md)
 - [Senior Marketer](./positions/senior_marketer.md)
+
+We get hundreds of submissions a day on active positions, so we apologize if we are not able to get back to you on your submission, but we want to thank you for applying!
